@@ -28,3 +28,9 @@ Python, Jupyter Notebook, NumPy, OpenCV, Matplotlib, PyTorch, TorchVision
 2) Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Results
+- Deep Learning Average IoU: **0.8657**
+- Classical method IoU: **0.047**
+- Deep Learning outperformed the classical pipeline on this task.
+
