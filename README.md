@@ -12,7 +12,7 @@ We built and evaluated a computer vision pipeline, including:
 
 ## What we did
 - Data preparation and preprocessing
-- Implemented a classical CV pipeline (thresholding / morphology / contour logic as needed)
+- Implemented a classical CV pipeline (thresholding / contour logic as needed)
 - Implemented a deep learning model in PyTorch (training + evaluation)
 - Compared outputs using visual results and evaluation metrics
 
@@ -21,8 +21,7 @@ Python, Jupyter Notebook, NumPy, OpenCV, Matplotlib, PyTorch, TorchVision
 
 ## Repository Structure
 - `notebooks/` → project notebook
-- `images/` → result screenshots (recommended)
-- `slides/` → presentation slides (optional)
+- `images/` → result screenshots 
 - `requirements.txt` → Python dependencies
 
 ## How to run
