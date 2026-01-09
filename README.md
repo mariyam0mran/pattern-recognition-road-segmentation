@@ -22,6 +22,15 @@ Python, Jupyter Notebook, NumPy, OpenCV, Matplotlib, PyTorch, TorchVision
 - `notebooks/` → project notebook
 - `images/` → result screenshots 
 - `requirements.txt` → Python dependencies
+## Dataset
+This project uses the **Road Lane Segmentation Images and Labels** dataset
+from Kaggle:
+
+https://www.kaggle.com/datasets/princekhunt19/road-lane-segmentation-imgs-and-labels
+
+The dataset contains road images and corresponding segmentation masks
+for lane detection tasks.
+
 
 ## How to run
 1) Create a virtual environment (recommended)
